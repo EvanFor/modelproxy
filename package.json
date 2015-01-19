@@ -7,6 +7,11 @@
 		{
 			"name" : "shanfan", 
 			"email" : "yingzhu.zyz@alibaba-inc.com"
+		}, 
+
+		{
+			"name" : "evanFor", 
+			"email" : "jinsefeng@163.com"
 		}
 	], 
 
@@ -25,6 +30,6 @@
 
 	"repository" : {
 		"type" : "git", 
-		"url" : "git@gitlab.alibaba-inc.com:tb/midway.git"
+		"url" : "https://github.com/EvanFor/modelproxy.git"
 	}
 }
